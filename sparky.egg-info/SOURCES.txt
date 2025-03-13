@@ -1,0 +1,8 @@
+README.md
+setup.py
+sparky/__init__.py
+sparky/testModule.py
+sparky.egg-info/PKG-INFO
+sparky.egg-info/SOURCES.txt
+sparky.egg-info/dependency_links.txt
+sparky.egg-info/top_level.txt

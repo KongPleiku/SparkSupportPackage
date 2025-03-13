@@ -1,0 +1,1 @@
+from .testModule import NewFunction

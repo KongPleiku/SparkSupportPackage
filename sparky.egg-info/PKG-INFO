@@ -1,0 +1,18 @@
+Metadata-Version: 2.2
+Name: sparky
+Version: 0.1
+Summary: This is a simple package
+Home-page: https://github.com/KongPleiku/SparkSupportPackage
+Author: KongBeng
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
+
+# SparkSupportPackage
+Description: 
+- This package provide function for automate for ETL job.
