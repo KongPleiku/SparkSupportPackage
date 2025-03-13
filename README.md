@@ -1,2 +1,3 @@
 # SparkSupportPackage
-This package is used for support Spark ETL function, also provide automatic function for easier and maintain the logic of ETL job
+Description: 
+- This package provide function for automate for ETL job.
